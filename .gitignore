@@ -1,0 +1,10 @@
+
+
+.env
+*.txt
+
+/node_modules
+
+
+
+
